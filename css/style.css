@@ -311,7 +311,8 @@ reportページ
 ======================================================*/
 
 .report_eye_catch {
-  height: 300px;
+  height: 250px;
+  font-size: 27px;
   background-image: url(../images/S__109174824.jpg);
   background-size: cover;
   background-position: center center;
