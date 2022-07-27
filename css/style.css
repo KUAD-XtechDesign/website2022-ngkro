@@ -286,7 +286,7 @@ worksページ
   display: block;
   height: 120px;
   border: 1px solid #ccc;
-  font-size: 70px;
+  font-size: 20px;
   opacity: 1;
   overflow: hidden;/* はみ出た部分は隠す */
 }
